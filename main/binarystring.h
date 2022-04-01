@@ -20,3 +20,4 @@ public:
 };
 istream &operator >>(istream &in, BinaryString &str);
 #endif // BINARYSTRING_H
+
